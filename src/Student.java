@@ -43,4 +43,6 @@ void myTest() {
 
 }
 
+int countAll() { return 0; }
+
 }
